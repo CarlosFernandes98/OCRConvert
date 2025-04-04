@@ -17,18 +17,5 @@ OCRConvert é uma ferramenta desenvolvida em Python que utiliza OCR para extrair
 
 ---
 
-## Instruções de Instalação e Execução
-
-1. Criar o ambiente virtual:
-   ```bash
-   python -m venv venv
-
-2. Instalar Dependências:
-   ```bash
-   pip install -r requirements.txt
-
-3. Executar aplicação:
-   ```bash
-   python main.py
 
 
