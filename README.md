@@ -2,7 +2,7 @@
 
 ## OCRConvert: Conversor e Analisador de PDFs e Imagens com OCR
 
-OCRConverte é uma ferramenta desenvolvida em Python que utiliza OCR para extrair e analisar textos de arquivos PDF e imagens. Com uma interface gráfica construída com CustomTkinter, o aplicativo permite que o utilizador carregue arquivos, processe o conteúdo e identifique palavras-chave de forma simples e interativa.
+OCRConvert é uma ferramenta desenvolvida em Python que utiliza OCR para extrair e analisar textos de arquivos PDF e imagens. Com uma interface gráfica construída com CustomTkinter, o aplicativo permite que o utilizador carregue arquivos, processe o conteúdo e identifique palavras-chave de forma simples e interativa.
 
 ---
 
@@ -16,3 +16,19 @@ OCRConverte é uma ferramenta desenvolvida em Python que utiliza OCR para extrai
 - **Acesso Rápido à Pasta de Saída:** Abre diretamente a pasta onde os resultados são guardados.
 
 ---
+
+## Instruções de Instalação e Execução
+
+1. Criar o ambiente virtual:
+   ```bash
+   python -m venv venv
+
+2. Instalar Dependências:
+   ```bash
+   pip install -r requirements.txt
+
+3. Executar aplicação:
+   ```bash
+   python main.py
+
+
